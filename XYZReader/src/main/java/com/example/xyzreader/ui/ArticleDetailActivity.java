@@ -57,6 +57,7 @@ public class ArticleDetailActivity extends AppCompatActivity
                 super.onPageScrollStateChanged(state);
 
             }
+
             @Override
             public void onPageSelected(int position) {
                 if (mCursor != null) {

@@ -123,8 +123,7 @@
         android:src="@drawable/ic_share"
         android:elevation="@dimen/fab_elevation"
         app:layout_anchor="@id/bar"
-        app:fabSize="mini"
-        />
+        app:fabSize="mini" />
 
 
 </android.support.design.widget.CoordinatorLayout>

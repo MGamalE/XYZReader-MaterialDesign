@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6adec13014f8f345a26a5861bd27d54f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/2374e19ee0680bd83c52b94ae59ddc51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8bb7e7ffd9249583694b5838de2eea69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/f8cffd1be8712e61590285a2258dc255/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6e576f478e4718e70be2aabc37ab28e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f5e5cf8770950c60c72b3e51ff024b06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f88c2b3f8477ccc4d43dc697ed9e9474/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6b8814e4c4aa6407805fa5df9b45c4d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8baeeb5bdb4534b45044c144bd3d916a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/17a05a262b28d1eca2198c89ae50ad1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fbb480f4830042b5b8f2d57f5ad622c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72e60d13e12077ccd7304679a3e5ac2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/391d6a2560bb928f6f3bf9da7d33e349/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f13bc22b717a0d65d2dc4936b2c3f29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a4f204e1b54b068368abb6f3281a8f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2517bc535ab3291545b6680cac983025/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/28fb824c97e7b155975cb9c86c0c3d3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0dc09e3512cff5ab74e7a3a9cbc8ef50/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a02406081da68265e22a37a946ab834e/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:15:9-43
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:18:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
+	android:parentActivityName
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:27:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.VIEW
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:31:27-73
+data
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:32:17-100
+	android:mimeType
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:32:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
+	android:value
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:36:17-56
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:35:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
+	android:exported
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:39:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
+	android:authorities
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:43:13-56
+	android:exported
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml:42:19-53
+uses-sdk
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6adec13014f8f345a26a5861bd27d54f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6adec13014f8f345a26a5861bd27d54f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/2374e19ee0680bd83c52b94ae59ddc51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/2374e19ee0680bd83c52b94ae59ddc51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8bb7e7ffd9249583694b5838de2eea69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8bb7e7ffd9249583694b5838de2eea69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/f8cffd1be8712e61590285a2258dc255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/f8cffd1be8712e61590285a2258dc255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6e576f478e4718e70be2aabc37ab28e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6e576f478e4718e70be2aabc37ab28e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f5e5cf8770950c60c72b3e51ff024b06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f5e5cf8770950c60c72b3e51ff024b06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f88c2b3f8477ccc4d43dc697ed9e9474/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f88c2b3f8477ccc4d43dc697ed9e9474/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6b8814e4c4aa6407805fa5df9b45c4d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6b8814e4c4aa6407805fa5df9b45c4d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8baeeb5bdb4534b45044c144bd3d916a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8baeeb5bdb4534b45044c144bd3d916a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/17a05a262b28d1eca2198c89ae50ad1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/17a05a262b28d1eca2198c89ae50ad1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fbb480f4830042b5b8f2d57f5ad622c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fbb480f4830042b5b8f2d57f5ad622c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72e60d13e12077ccd7304679a3e5ac2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72e60d13e12077ccd7304679a3e5ac2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/391d6a2560bb928f6f3bf9da7d33e349/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/391d6a2560bb928f6f3bf9da7d33e349/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f13bc22b717a0d65d2dc4936b2c3f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f13bc22b717a0d65d2dc4936b2c3f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a4f204e1b54b068368abb6f3281a8f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a4f204e1b54b068368abb6f3281a8f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2517bc535ab3291545b6680cac983025/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2517bc535ab3291545b6680cac983025/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/28fb824c97e7b155975cb9c86c0c3d3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/28fb824c97e7b155975cb9c86c0c3d3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0dc09e3512cff5ab74e7a3a9cbc8ef50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0dc09e3512cff5ab74e7a3a9cbc8ef50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a02406081da68265e22a37a946ab834e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a02406081da68265e22a37a946ab834e/AndroidManifest.xml:20:5-44
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/AndroidManifest.xml

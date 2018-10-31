@@ -59,7 +59,7 @@ public class ArticleDetailFragment extends Fragment implements
     // Use default locale format
     private SimpleDateFormat outputFormat = new SimpleDateFormat();
     // Most time functions can only handle 1902 - 2037
-    private GregorianCalendar START_OF_EPOCH = new GregorianCalendar(2,1,1);
+    private GregorianCalendar START_OF_EPOCH = new GregorianCalendar(2, 1, 1);
 
     /**
      * Mandatory empty constructor for the fragment manager to instantiate the
@@ -119,13 +119,8 @@ public class ArticleDetailFragment extends Fragment implements
         });
 
 
-
-
-
         return mRootView;
     }
-
-
 
 
     private Date parsePublishedDate() {
@@ -149,12 +144,9 @@ public class ArticleDetailFragment extends Fragment implements
         bylineView.setMovementMethod(new LinkMovementMethod());
         TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
 
-        toolbar=(Toolbar) mRootView.findViewById(R.id.frag_detail_toolb);
+        toolbar = (Toolbar) mRootView.findViewById(R.id.frag_detail_toolb);
 
-        collapsingToolbarLayout= (CollapsingToolbarLayout) mRootView.findViewById(R.id.collapsingToolbar);
-
-
-
+        collapsingToolbarLayout = (CollapsingToolbarLayout) mRootView.findViewById(R.id.collapsingToolbar);
 
 
         bodyView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Rosario-Regular.ttf"));
@@ -169,6 +161,7 @@ public class ArticleDetailFragment extends Fragment implements
             detailsBar.addOnOffsetChangedListener(new AppBarLayout.OnOffsetChangedListener() {
                 boolean isShow = false;
                 int scrollRange = -1;
+
                 @Override
                 public void onOffsetChanged(AppBarLayout appBarLayout, int verticalOffset) {
                     if (scrollRange == -1) {
@@ -177,7 +170,7 @@ public class ArticleDetailFragment extends Fragment implements
                     if (scrollRange + verticalOffset == 0) {
                         collapsingToolbarLayout.setTitle(mCursor.getString(ArticleLoader.Query.TITLE));
                         isShow = true;
-                    } else if(isShow) {
+                    } else if (isShow) {
                         collapsingToolbarLayout.setTitle(" ");
                         isShow = false;
                     }
@@ -221,13 +214,12 @@ public class ArticleDetailFragment extends Fragment implements
                                         collapsingToolbarLayout.setContentScrimColor(mMutedColor);
                                     }
                                 });
-                                try{
+                                try {
                                     toolbar.setTitle(mCursor.getString(ArticleLoader.Query.TITLE));
-                                    ((AppCompatActivity)getActivity()).setSupportActionBar(toolbar);
+                                    ((AppCompatActivity) getActivity()).setSupportActionBar(toolbar);
                                     ((AppCompatActivity) getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(true);
                                     ((AppCompatActivity) getActivity()).getSupportActionBar().setDisplayShowHomeEnabled(true);
-                                }catch (NullPointerException e)
-                                {
+                                } catch (NullPointerException e) {
 
                                 }
 
@@ -242,7 +234,7 @@ public class ArticleDetailFragment extends Fragment implements
         } else {
             mRootView.setVisibility(View.GONE);
             titleView.setText("N/A");
-            bylineView.setText("N/A" );
+            bylineView.setText("N/A");
             bodyView.setText("N/A");
         }
     }
@@ -279,8 +271,7 @@ public class ArticleDetailFragment extends Fragment implements
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        if(item.getItemId()==R.id.home)
-        {
+        if (item.getItemId() == R.id.home) {
             getActivity().onBackPressed();
         }
         return true;

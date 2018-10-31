@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w800dp-v13/values-w800dp-v13.xml",
+            "map": [
+                {
+                    "source": "/media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/XYZ Reader/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "from": {
+                        "startLines": "7,2,3,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "232,34,82,161",
+                        "endColumns": "53,47,55,49",
+                        "endOffsets": "281,77,133,206"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,109,157,213",
+                        "endColumns": "53,47,55,49",
+                        "endOffsets": "104,152,208,258"
+                    }
+                }
+            ]
+        }
+    ]
+}
